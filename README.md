@@ -1,5 +1,8 @@
 # BACKEND_E-COMM_DASHBOARD CRUD OPERATION
 
+
+https://ecommercedashboardfronted.netlify.app/signup
+
 This repository contains the backend API for an Ecommerce web application built using Node.js. The API provides various routes for user authentication, product management, and product search. The application allows users to register, log in, add products, retrieve product lists, and search for specific products.All data is stored in a MongoDB Atlas cloud database for secure and reliable data storage.
 
 
